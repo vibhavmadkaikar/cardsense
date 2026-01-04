@@ -44,3 +44,11 @@ CardSense solves this with a data-driven approach.
 🚧 Architecture & design phase
 
 > This is a personal portfolio project and not a commercial product.
+
+## Documentation
+
+- Vision → docs/vision.md
+- Architecture → docs/architecture.md
+- Database → docs/database/
+- API Contracts → docs/api/
+- Roadmap → docs/roadmap.md
